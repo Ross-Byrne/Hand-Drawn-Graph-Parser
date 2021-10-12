@@ -1,4 +1,4 @@
-opencv-python == 4.1.0.25
+opencv-python == 4.1.1.26
 tensorflow == 1.13.1
 numpy
 keras
